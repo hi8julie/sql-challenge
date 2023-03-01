@@ -7,7 +7,8 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 ## Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. 
-<img width="818" alt="Entity Relationship Diagram" src="https://user-images.githubusercontent.com/118202453/222193116-d3faf4da-f91d-40e2-83ed-60970d3731a2.PNG">
+<img width="578" alt="Entity Relationship Diagram - short version" src="https://user-images.githubusercontent.com/118202453/222194132-c1882570-4132-4bd4-bb3e-ea81050b981e.png">
+
 
 
 ## Data Engineering
